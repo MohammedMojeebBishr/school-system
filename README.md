@@ -1,43 +1,57 @@
-# نضام  رسوم مدرسة
 
-نضام متكامل لرسوم الطلاب في المدرسة
 
 ---
 
-## 📌 نبذة عن المشروع
-نضام اداره رسوم الطلاب في المدرسه نضام مميز وسهل الاستخدام  
+# School Fees System
+
+An integrated system for student fees in the school.
 
 ---
 
-## 💻 التقنيات المستخدمة
-- HTML
-- CSS
-- JavaScript
-- php
-- my sql
----
+## 📌 Project Overview
 
-## 🎨 المميزات
-- تصميم عصري 
-- واجهة سهلة الاستخدام
-- متوافق مع الجوال والكمبيوتر
-- سرعة في الأداء
+A system for managing student fees in school. A simple and easy-to-use system.
 
 ---
 
-## اسم المستخدم 
+## 💻 Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+
+---
+
+## 🎨 Features
+
+* Modern design
+* Easy-to-use interface
+* Mobile and desktop responsive
+* High performance and speed
+
+---
+
+## Username
+
 mohammed
 
-## كلمه المرور 
-123
+## Password
 
-## 👨‍💻 البرمجة والتصميم
-**محمد مجيب بشر**
+123
 
 ---
 
-## 📞 التواصل
-- 967+ 772062777
-- 967+ 782807337
+## 👨‍💻 Programming & Design
+
+**Mohammed Mujeeb Bishr**
+
+---
+
+## 📞 Contact
+
+* +967 772062777
+* +967 782807337
 
 ---
